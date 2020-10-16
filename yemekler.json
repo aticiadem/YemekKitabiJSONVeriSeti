@@ -1,50 +1,50 @@
 [
-	{
-		"isim": "Et Köfte",
-		"malzeme": "1- 350 gr kıyma\n2- 1 adet yumurta\n1 adet orta boy kuru soğan\n3- 2 yemek kaşığı galeta unu\n4- 1 çay kaşığı kimyon\n5- 1/2 çay kaşığı pulbiber\n6- 1/2 çay kaşığı karabiber\n7- Tuz",
-		"yapilis": "Kasapta eğer mevcut ise kıymayı çekerken içine az miktarda kavram yağı ya da kuyruk yağı katmasını isteyin. 1 kilo kıyma için 200gr kavram yağı yeterlidir.\nLezzetli köfte yapmak için yoğurma kısmı çok önemlidir. Bunun için köfteyi 10 dakika durmadan yoğurun. Ardından buzdolabına koyup, dinlendirin. Ardından tekrar buzdolabından çıkartıp 10 dakika daha yoğurun.\nEğer köfteleri yoğurduktan sonra hemen pişirmeyip, 1 gün kadar buz dolabında bekletmeyi planlıyorsanız, köfte harcının içine yumurta katmayın. Yumurtasız et köfte yapın. Çünkü yumurta bekledikçe kokusu ağırlaşır.|nFırında et köfte tarifi yapacaksanız, köftelerin çok kurumaması tepsinin üzerine de yağ kağıt örtebilirsiniz.\nFırında et köfte tarifi yapacaksanız, köftelerin çok kurumaması tepsinin üzerine de yağ kağıt örtebilirsiniz.",
-		"gorsel" : "https://raw.githubusercontent.com/aticiadem/YemekKitabiJSONVeriSeti/main/etkofte.jpg",
-	},
-	{
-		"isim": "Zerdeçallı Makarna Salatası",
-		"malzeme": "1- 1/3 paket(150 gr) burgu makarna\n2- 2-3 fındık büyüklüğünde taze zerdeçal\n3- 1 çay kaşığı toz zerdeçal\n4- 1,5 kibrit kutusu beyaz peynir\n5- 1 avuç siyah zeytin\n6- 1 tatlı kaşığı çörek otu\n7- 6-7 dal taze kişniş veya maydanoz\n8- 2 çorba kaşığı zeytinyağı\n9- 3 tutam tuz",
-		"yapilis": "Makarnayı haşlamak için tencereye 1-1,5 litre su koyun ve içine 1-2 tutam tuz ekleyin. 3 fındık büyüklüğünde ki taze zerdeçalı doğrayın ve kaynayan suyun içerisine atın. 1 çay kaşığı kadar da toz zerdeçalı makarnanın haşlama suyuna ekleyin. Tencereye 3 avuç yaklaşık 150 gr kadar burgu makarnayı ekleyin. Makarnayı paketindeki pişirme süresine göre pişirdikten sonra süzüp sıcakken tabağa alın. Üzerine 2 çorba kaşığı zeytinyağını dökün. Makarna sıcakken zeytinyağını güzelce içine çeksin. O sırada 1,5 kibrit kutusu kadar beyaz peyniri küp küp kesip makarnanın üzerine atın. 6-7 dal taze kişnişi ince kıyın makarnanın üzerine serpin. Kişiniş yoksa veya sevmiyorsanız maydanoz da kullanabilirsiniz. Son olarak 1 avuç siyah zeytini ve 1 tatlı kaşığı çörek otunu da makarnaya ekledikten sonra güzelce karıştırın. Peynirin ve zeytinin tuzluluğuna göre tadına bakın ve gerekirse içine 1-2 tutam tuz ekleyin. Hafif, sarışın ve çok çok lezzetli makarna salatanız hazır ve de nazır.",
-		"gorsel" : "https://raw.githubusercontent.com/aticiadem/YemekKitabiJSONVeriSeti/main/zerdecallimakarnasalatasi.jpg",
-	},
-	{
-		"isim": "Havuçlu Bezelyeli Pirinç Pilavı",
-		"malzeme": "1- 2 su bardağı pilavlık pirinç\n2- 3 su bardağı su veya  tavuk suyu\n3- 50–60 gram kabuksuz badem\n4- 1 adet küp doğranmış havuç\n5- 1 su bardağı dolusu bezelye\n6- 2 yemek kaşığı zeytin yağı\n7- 1 yemek kaşığı dolusu tereyağı\n 8- 1 tatlı kaşığı tuz",
-		"yapilis": " İlk olarak  pirinçleri yıkayalım. Yarım saat ılık suda bekletelim. Bir tencerenin içine küp küp doğranmış havuçları, bezelyeleri sıvı yağda 2-3 dakika kavuralım. Üzerine 1 çay bardağı sıcak su koyalım kısık ateşte pişmeye bırakalım. Havuçlar pişince yani suyunu çekince bademleri ve tereyağını  ilave edelim. Bademlerin rengi dönene kadar kısık ateşte kavururken üzerine yıkanmış süzülmüş pirinçleride 1-2 dakika daha kavurup 3 su bardağı tavuk suyu veya  normal su, tuz ilave edip tencerenin kapağını kapatalım. Kısık ateşte suyunu çekene kadar pişirelim. (15-20 dakika) Pişince temiz bir bezle örtelim kenarı alalım.",
-		"gorsel" : "https://raw.githubusercontent.com/aticiadem/YemekKitabiJSONVeriSeti/main/havuclubezelyelipirincpilavi.jpg",
-	},
-	{
-		"isim": "Çam Fıstıklı İrmik Helvası",
-		"malzeme": "1- 2 su bardağı irmik\n2- 150 gram margarin\n3- 2 yemek kaşığı sıvı yağ\n4- Biraz çam fıstığı\n\nŞerbeti İçin:\n1- 2,5 su bardağı su\n2- 2,5 su bardağı şeker",
-		"yapilis": "Tencereye sıvı yağ, margarin koyulur. Eriyince irmik eklenir. Tencerede altı kısık olarak 20-25 dk kavrulur. Rengi koyulaşınca çam fıstıklar eklenir. 1 dk daha kavrulur. Şeker ve su ile bir taşım kaynattığımız şerbet, kavrulan irmiğe dökülür. 2-3 dakika içinde irmik şerbeti çekecektir. İrmikler göz göz oluca altı kapatılıp, biraz bekletilip servis yapılır.",
-		"gorsel" : "https://raw.githubusercontent.com/aticiadem/YemekKitabiJSONVeriSeti/main/camfistikliirmik.jpg",
-	},
-	{
-		"isim": "Fırında Levrek Balık",
-		"malzeme": "1- 2 adet levrek\n2- 2 patates\n3- 2 soğan\n4- 2 kapya biber\n5- 2 yeşil biber\n6- 1 baş sarımsak\n7- 1 çay bardağı zeytin yağ\n8- Kekik, tuz, pulbiber",
-		"yapilis": "Levreklerimizi temizleyip yıkadıktan sonra tüm sebzeleri ve bahartlarımızı harmanlayıp yağlı kağıt serilmiş fırın tepsimize diziyoruz ve balıklarımızın arasına da ekliyoruz. Ardından üzerine zeytin yağı ve kekik gezdirip 180 derece fırında yaklaşık 40 dakika pişiriyoruz.",
-		"gorsel" : "https://raw.githubusercontent.com/aticiadem/YemekKitabiJSONVeriSeti/main/firindalevrekbalik.jpg",
-	},
-	{
-		"isim": "Havuç Tatlısı",
-		"malzeme": "1 kg havuç, yeteri kadar su\n2- 1 su bardağı tozşeker\n3- 1 çay bardağı toz badem\n4- 1 paket vanilya\n5- 3 çorba kaşığı buğday nişastası\n6- 1 çay bardağı toz antepfıstığı",
-		"yapilis": "Havuçları hafifçe yumuşayana dek haşlayın. Daha sonra ince rendeleyin. Bir tencereye alıp, üzerine tozşeker ekleyin ve ocağa oturtup şeker eriyene dek soteleyin. Bademi ve vanilyayı ekleyin. Nişastayı 1 su bardağı suda açıp azar azar ve karıştırarak tatlıya ekleyin. Koyulaşana dek pişirin. Kare cam bir kabı ıslatın. Tatlıyı içine boşaltıp soğutun. Dilimleyip kenarlarını toz antepfıstığına buladıktan sonra servis yapın.",
-		"gorsel" : "https://raw.githubusercontent.com/aticiadem/YemekKitabiJSONVeriSeti/main/havuctatlisi.jpg",
-	},
-	{
-		"isim": "Brownie Tadında Islak Kek",
-		"malzeme": "1- 2 yumurta\n2- 1 su bardağı süt\n3- 1 su bardağı toz şeker\n4- 1 su bardağı sıvı yağ\n5- 1,5 paket kabartma tozu\n6- 1 paket vanilya\n7- 3 tepeleme yemek kaşığı kakao\n8- 2 su bardağı un\n9- Sosu için;\n10- 1,5 su bardağı süt\n11- Yarım çay bardağı sıvı yağ\n12- 1 su bardağından iki parmak eksik toz şeker\n13- 2 yemek kaşığı kakao",
-		"yapilis": "Yumurta ve şekeri mikserle köpük köpük olana kadar çırpalım. Sırayla süt yağ kakao koyup çırpmaya devam edelim. En son un kabartma tozu vanilya koyup tahta kaşıkla karıştıralım. Dikdörtgen bir borcama döküp önceden ısıtılmış 180°c pişiriyoruz. Süt, şeker, yağ ,  kakaoyu bir tencere de kaynatıyoruz sonra kapatıyoruz. Kekimizi fırından çıkarıp dilimleyip on dk dinlendirip sosu döküyoruz. 1-2  saat buzdolabında dinlendirip servis ediyoruz.",
-		"gorsel" : "https://raw.githubusercontent.com/aticiadem/YemekKitabiJSONVeriSeti/main/brownietadindaislakkek.jpg",
-	},
-	{
-		"isim": "Beşamelsiz Fırında Makarna",
-		"malzeme": "1- 1 paket makarna\n2- 2,5 su bardağı yoğurt\n3- 2 adet yumurta\n4- 2 yemek kaşığı tereyağı\n5- 150 gram kaşar peyniri\n6- 150 gram beyaz peynir\n8- 1/2 çay bardağı karabiber\n9- 1 çay kaşığı tuz\n10- 1 kase rendelenmiş kaşar peyniri(ya da cheddar)",
-		"yapilis": "Makarnaları hafif diri kalacak şekilde tuzlu suda haşlayıp suyunu süzün ve soğuk sudan geçirin. Sonra bir kenara alıp suyunun iyice süzülmesini bekleyin. Bu sırada, bir kabın içinde rendelediğiniz kaşar peynirini ve ufalanmış beyaz peyniri karıştırın. Peynir karışımının üzerine çırpılmış iki yumurta, karabiber, 2.5 su bardağı yoğurt ekleyip iyice karıştırın. Suyu iyice süzülmüş makarnayı tencereye alıp üzerine erittiğiniz tereyağı dökerek iyice karıştırın. Daha sonra, üzerine hazırladığınız yoğurtlu karışımın yarısını döküp güzelce karıştırın. Tencerenin içinde karıştığınız makarnayı zeytinyağ ile yağladığınız derin bir borcama alın ve üzerine karışımın kalan yarısını ilave edin. 200 derece fırında altı ve üstü kızarana kadar 25 dakika pişirin. Hafifçe kızaran fırın makarnayı dışarı alıp, üzeri için hazırladığınız cheddar peyniri ve/veya kaşar peyniri rendesini serpin. Tekrar fırına koyup kaşar peynirler eriyip güzelce kızarana kadar pişirin. Servise hazır.",
-		"gorsel" : "https://raw.githubusercontent.com/aticiadem/YemekKitabiJSONVeriSeti/main/besamelsizfirinmakarna.jpg"
-	}
+  {
+    "isim": "Et Köfte",
+    "malzeme": "1- 350 gr kıyma\n2- 1 adet yumurta\n1 adet orta boy kuru soğan\n3- 2 yemek kaşığı galeta unu\n4- 1 çay kaşığı kimyon\n5- 1/2 çay kaşığı pulbiber\n6- 1/2 çay kaşığı karabiber\n7- Tuz",
+    "yapilis": "Kasapta eğer mevcut ise kıymayı çekerken içine az miktarda kavram yağı ya da kuyruk yağı katmasını isteyin. 1 kilo kıyma için 200gr kavram yağı yeterlidir.\nLezzetli köfte yapmak için yoğurma kısmı çok önemlidir. Bunun için köfteyi 10 dakika durmadan yoğurun. Ardından buzdolabına koyup, dinlendirin. Ardından tekrar buzdolabından çıkartıp 10 dakika daha yoğurun.\nEğer köfteleri yoğurduktan sonra hemen pişirmeyip, 1 gün kadar buz dolabında bekletmeyi planlıyorsanız, köfte harcının içine yumurta katmayın. Yumurtasız et köfte yapın. Çünkü yumurta bekledikçe kokusu ağırlaşır.|nFırında et köfte tarifi yapacaksanız, köftelerin çok kurumaması tepsinin üzerine de yağ kağıt örtebilirsiniz.\nFırında et köfte tarifi yapacaksanız, köftelerin çok kurumaması tepsinin üzerine de yağ kağıt örtebilirsiniz.",
+    "gorsel" : "https://raw.githubusercontent.com/aticiadem/YemekKitabiJSONVeriSeti/main/etkofte.jpg"
+  },
+  {
+    "isim": "Zerdeçallı Makarna Salatası",
+    "malzeme": "1- 1/3 paket(150 gr) burgu makarna\n2- 2-3 fındık büyüklüğünde taze zerdeçal\n3- 1 çay kaşığı toz zerdeçal\n4- 1,5 kibrit kutusu beyaz peynir\n5- 1 avuç siyah zeytin\n6- 1 tatlı kaşığı çörek otu\n7- 6-7 dal taze kişniş veya maydanoz\n8- 2 çorba kaşığı zeytinyağı\n9- 3 tutam tuz",
+    "yapilis": "Makarnayı haşlamak için tencereye 1-1,5 litre su koyun ve içine 1-2 tutam tuz ekleyin. 3 fındık büyüklüğünde ki taze zerdeçalı doğrayın ve kaynayan suyun içerisine atın. 1 çay kaşığı kadar da toz zerdeçalı makarnanın haşlama suyuna ekleyin. Tencereye 3 avuç yaklaşık 150 gr kadar burgu makarnayı ekleyin. Makarnayı paketindeki pişirme süresine göre pişirdikten sonra süzüp sıcakken tabağa alın. Üzerine 2 çorba kaşığı zeytinyağını dökün. Makarna sıcakken zeytinyağını güzelce içine çeksin. O sırada 1,5 kibrit kutusu kadar beyaz peyniri küp küp kesip makarnanın üzerine atın. 6-7 dal taze kişnişi ince kıyın makarnanın üzerine serpin. Kişiniş yoksa veya sevmiyorsanız maydanoz da kullanabilirsiniz. Son olarak 1 avuç siyah zeytini ve 1 tatlı kaşığı çörek otunu da makarnaya ekledikten sonra güzelce karıştırın. Peynirin ve zeytinin tuzluluğuna göre tadına bakın ve gerekirse içine 1-2 tutam tuz ekleyin. Hafif, sarışın ve çok çok lezzetli makarna salatanız hazır ve de nazır.",
+    "gorsel" : "https://raw.githubusercontent.com/aticiadem/YemekKitabiJSONVeriSeti/main/zerdecallimakarnasalatasi.jpg"
+  },
+  {
+    "isim": "Havuçlu Bezelyeli Pirinç Pilavı",
+    "malzeme": "1- 2 su bardağı pilavlık pirinç\n2- 3 su bardağı su veya  tavuk suyu\n3- 50–60 gram kabuksuz badem\n4- 1 adet küp doğranmış havuç\n5- 1 su bardağı dolusu bezelye\n6- 2 yemek kaşığı zeytin yağı\n7- 1 yemek kaşığı dolusu tereyağı\n 8- 1 tatlı kaşığı tuz",
+    "yapilis": " İlk olarak  pirinçleri yıkayalım. Yarım saat ılık suda bekletelim. Bir tencerenin içine küp küp doğranmış havuçları, bezelyeleri sıvı yağda 2-3 dakika kavuralım. Üzerine 1 çay bardağı sıcak su koyalım kısık ateşte pişmeye bırakalım. Havuçlar pişince yani suyunu çekince bademleri ve tereyağını  ilave edelim. Bademlerin rengi dönene kadar kısık ateşte kavururken üzerine yıkanmış süzülmüş pirinçleride 1-2 dakika daha kavurup 3 su bardağı tavuk suyu veya  normal su, tuz ilave edip tencerenin kapağını kapatalım. Kısık ateşte suyunu çekene kadar pişirelim. (15-20 dakika) Pişince temiz bir bezle örtelim kenarı alalım.",
+    "gorsel" : "https://raw.githubusercontent.com/aticiadem/YemekKitabiJSONVeriSeti/main/havuclubezelyelipirincpilavi.jpg"
+  },
+  {
+    "isim": "Çam Fıstıklı İrmik Helvası",
+    "malzeme": "1- 2 su bardağı irmik\n2- 150 gram margarin\n3- 2 yemek kaşığı sıvı yağ\n4- Biraz çam fıstığı\n\nŞerbeti İçin:\n1- 2,5 su bardağı su\n2- 2,5 su bardağı şeker",
+    "yapilis": "Tencereye sıvı yağ, margarin koyulur. Eriyince irmik eklenir. Tencerede altı kısık olarak 20-25 dk kavrulur. Rengi koyulaşınca çam fıstıklar eklenir. 1 dk daha kavrulur. Şeker ve su ile bir taşım kaynattığımız şerbet, kavrulan irmiğe dökülür. 2-3 dakika içinde irmik şerbeti çekecektir. İrmikler göz göz oluca altı kapatılıp, biraz bekletilip servis yapılır.",
+    "gorsel" : "https://raw.githubusercontent.com/aticiadem/YemekKitabiJSONVeriSeti/main/camfistikliirmik.jpg"
+  },
+  {
+    "isim": "Fırında Levrek Balık",
+    "malzeme": "1- 2 adet levrek\n2- 2 patates\n3- 2 soğan\n4- 2 kapya biber\n5- 2 yeşil biber\n6- 1 baş sarımsak\n7- 1 çay bardağı zeytin yağ\n8- Kekik, tuz, pulbiber",
+    "yapilis": "Levreklerimizi temizleyip yıkadıktan sonra tüm sebzeleri ve bahartlarımızı harmanlayıp yağlı kağıt serilmiş fırın tepsimize diziyoruz ve balıklarımızın arasına da ekliyoruz. Ardından üzerine zeytin yağı ve kekik gezdirip 180 derece fırında yaklaşık 40 dakika pişiriyoruz.",
+    "gorsel" : "https://raw.githubusercontent.com/aticiadem/YemekKitabiJSONVeriSeti/main/firindalevrekbalik.jpg"
+  },
+  {
+    "isim": "Havuç Tatlısı",
+    "malzeme": "1 kg havuç, yeteri kadar su\n2- 1 su bardağı tozşeker\n3- 1 çay bardağı toz badem\n4- 1 paket vanilya\n5- 3 çorba kaşığı buğday nişastası\n6- 1 çay bardağı toz antepfıstığı",
+    "yapilis": "Havuçları hafifçe yumuşayana dek haşlayın. Daha sonra ince rendeleyin. Bir tencereye alıp, üzerine tozşeker ekleyin ve ocağa oturtup şeker eriyene dek soteleyin. Bademi ve vanilyayı ekleyin. Nişastayı 1 su bardağı suda açıp azar azar ve karıştırarak tatlıya ekleyin. Koyulaşana dek pişirin. Kare cam bir kabı ıslatın. Tatlıyı içine boşaltıp soğutun. Dilimleyip kenarlarını toz antepfıstığına buladıktan sonra servis yapın.",
+    "gorsel" : "https://raw.githubusercontent.com/aticiadem/YemekKitabiJSONVeriSeti/main/havuctatlisi.jpg"
+  },
+  {
+    "isim": "Brownie Tadında Islak Kek",
+    "malzeme": "1- 2 yumurta\n2- 1 su bardağı süt\n3- 1 su bardağı toz şeker\n4- 1 su bardağı sıvı yağ\n5- 1,5 paket kabartma tozu\n6- 1 paket vanilya\n7- 3 tepeleme yemek kaşığı kakao\n8- 2 su bardağı un\n9- Sosu için;\n10- 1,5 su bardağı süt\n11- Yarım çay bardağı sıvı yağ\n12- 1 su bardağından iki parmak eksik toz şeker\n13- 2 yemek kaşığı kakao",
+    "yapilis": "Yumurta ve şekeri mikserle köpük köpük olana kadar çırpalım. Sırayla süt yağ kakao koyup çırpmaya devam edelim. En son un kabartma tozu vanilya koyup tahta kaşıkla karıştıralım. Dikdörtgen bir borcama döküp önceden ısıtılmış 180°c pişiriyoruz. Süt, şeker, yağ ,  kakaoyu bir tencere de kaynatıyoruz sonra kapatıyoruz. Kekimizi fırından çıkarıp dilimleyip on dk dinlendirip sosu döküyoruz. 1-2  saat buzdolabında dinlendirip servis ediyoruz.",
+    "gorsel" : "https://raw.githubusercontent.com/aticiadem/YemekKitabiJSONVeriSeti/main/brownietadindaislakkek.jpg"
+  },
+  {
+    "isim": "Beşamelsiz Fırında Makarna",
+    "malzeme": "1- 1 paket makarna\n2- 2,5 su bardağı yoğurt\n3- 2 adet yumurta\n4- 2 yemek kaşığı tereyağı\n5- 150 gram kaşar peyniri\n6- 150 gram beyaz peynir\n8- 1/2 çay bardağı karabiber\n9- 1 çay kaşığı tuz\n10- 1 kase rendelenmiş kaşar peyniri",
+    "yapilis": "Makarnaları hafif diri kalacak şekilde tuzlu suda haşlayıp suyunu süzün ve soğuk sudan geçirin. Sonra bir kenara alıp suyunun iyice süzülmesini bekleyin. Bu sırada, bir kabın içinde rendelediğiniz kaşar peynirini ve ufalanmış beyaz peyniri karıştırın. Peynir karışımının üzerine çırpılmış iki yumurta, karabiber, 2.5 su bardağı yoğurt ekleyip iyice karıştırın. Suyu iyice süzülmüş makarnayı tencereye alıp üzerine erittiğiniz tereyağı dökerek iyice karıştırın. Daha sonra, üzerine hazırladığınız yoğurtlu karışımın yarısını döküp güzelce karıştırın. Tencerenin içinde karıştığınız makarnayı zeytinyağ ile yağladığınız derin bir borcama alın ve üzerine karışımın kalan yarısını ilave edin. 200 derece fırında altı ve üstü kızarana kadar 25 dakika pişirin. Hafifçe kızaran fırın makarnayı dışarı alıp, üzeri için hazırladığınız cheddar peyniri ve/veya kaşar peyniri rendesini serpin. Tekrar fırına koyup kaşar peynirler eriyip güzelce kızarana kadar pişirin. Servise hazır.",
+    "gorsel" : "https://raw.githubusercontent.com/aticiadem/YemekKitabiJSONVeriSeti/main/besamelsizfirinmakarna.jpg"
+  }
 ]
